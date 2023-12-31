@@ -1,0 +1,3 @@
+[submodule "DD-3x-xx-A_ESP32"]
+	path = DD-3x-xx-A_ESP32
+	url = git@github.com:gilbertwaltoon/DD-3x-xx-A_ESP32.git
